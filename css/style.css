@@ -358,6 +358,11 @@ header .slide-navi .content .social .fa-linkedin-in {
           box-shadow: 0 0 15px rgba(128, 128, 128, 0.479);
 }
 
+.service .service-box:hover i {
+  background-color: #155bd5;
+  color: #fff;
+}
+
 .service .service-box i {
   width: 80px;
   height: 80px;

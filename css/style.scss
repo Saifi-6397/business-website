@@ -320,6 +320,10 @@ header {
         &:hover {
             box-shadow: 0 0 15px rgba(128, 128, 128, 0.479);
         }
+        &:hover i {
+            background-color: #155bd5;
+            color: #fff;
+        }
         i {
             width: 80px;
             height: 80px;
